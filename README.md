@@ -1,5 +1,6 @@
 ShadowFox Java Development Internship Tasks
-Welcome to my internship repository for the ShadowFox Java Development Internship! This repository includes all my completed projects from the beginner and intermediate task levels, covering a range of Java development skills including core Java, JDBC, GUI, and basic software testing.
+
+This in my internship repository for the ShadowFox Java Development Internship! This repository includes all my completed projects from the beginner and intermediate task levels, covering a range of Java development skills including core Java, JDBC, GUI, and basic software testing.
 
 Beginner Level
 1. Enhanced Console-based Calculator
